@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netstandard2.0\MamuteApp.Dominio.deps.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netstandard2.0\MamuteApp.Dominio.dll
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netstandard2.0\MamuteApp.Dominio.pdb
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteApp.Dominio\obj\Debug\netstandard2.0\MamuteApp.Dominio.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteApp.Dominio\obj\Debug\netstandard2.0\MamuteApp.Dominio.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteApp.Dominio\obj\Debug\netstandard2.0\MamuteApp.Dominio.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteApp.Dominio\obj\Debug\netstandard2.0\MamuteApp.Dominio.dll
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteApp.Dominio\obj\Debug\netstandard2.0\MamuteApp.Dominio.pdb

@@ -87,9 +87,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\MamuteApp\\backend\\MamuteAppApi\\MamuteAppApi\\MamuteAppApi.csproj",
-      "projectName": "MamuteAppApi",
-      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\MamuteApp\\backend\\MamuteAppApi\\MamuteAppApi\\MamuteAppApi.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\MamuteApp\\backend\\MamuteAppApi\\MamuteAppApi\\MamuteApp.Api.csproj",
+      "projectName": "MamuteApp.Api",
+      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\MamuteApp\\backend\\MamuteAppApi\\MamuteAppApi\\MamuteApp.Api.csproj",
       "packagesPath": "C:\\Users\\gustavomoraes\\.nuget\\packages\\",
       "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\MamuteApp\\backend\\MamuteAppApi\\MamuteAppApi\\obj\\",
       "projectStyle": "PackageReference",

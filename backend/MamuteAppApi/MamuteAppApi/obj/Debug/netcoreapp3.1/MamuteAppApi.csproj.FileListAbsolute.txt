@@ -8,3 +8,15 @@
 \\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.AssemblyInfoInputs.cache
 \\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.AssemblyInfo.cs
 \\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\appsettings.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.exe
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.deps.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.dll
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\Binarios\netcoreapp3.1\MamuteAppApi.pdb
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.dll
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.pdb
