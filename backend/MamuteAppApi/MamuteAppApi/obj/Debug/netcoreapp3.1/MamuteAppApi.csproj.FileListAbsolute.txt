@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\bin\Debug\netcoreapp3.1\MamuteAppApi.exe
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\staticwebassets\MamuteAppApi.StaticWebAssets.Manifest.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\staticwebassets\MamuteAppApi.StaticWebAssets.xml
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\MamuteApp\backend\MamuteAppApi\MamuteAppApi\obj\Debug\netcoreapp3.1\MamuteAppApi.RazorTargetAssemblyInfo.cache
